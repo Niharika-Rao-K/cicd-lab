@@ -1,7 +1,7 @@
 // The functions our pipeline will test. Keep them simple.
 
 function add(a, b) {
-  return a - b;
+  return a + b;
 }
 
 function subtract(a, b) {
