@@ -1,3 +1,4 @@
+![CI](https://github.com/Niharika-Rao-K/cicd-lab/actions/workflows/ci.yml/badge.svg)
 # cicd-lab — starter files
 
 Copy **all** of these files into your own `cicd-lab` repository, **including the hidden `.github`
