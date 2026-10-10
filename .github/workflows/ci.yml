@@ -26,6 +26,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
+      - name: Test secret masking
+        run: echo "Secret value is $MY_SECRET"
+        env:
+          MY_SECRET: ${{ secrets.MY_SECRET }}
+
       - run: npm run lint
       - run: npm test
 
