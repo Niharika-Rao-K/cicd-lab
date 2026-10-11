@@ -1,5 +1,7 @@
 // The functions our pipeline will test. Keep them simple.
 // Task 8: verify that code changes trigger CI.
+// Task 8: verify that code changes trigger CI.
+
 function add(a, b) {
   return a + b;
 }
