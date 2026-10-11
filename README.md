@@ -1,5 +1,7 @@
 ![CI](https://github.com/Niharika-Rao-K/cicd-lab/actions/workflows/ci.yml/badge.svg)
 # cicd-lab — starter files
+## Lab 4
+Testing GitHub Pages deployment.
 
 Copy **all** of these files into your own `cicd-lab` repository, **including the hidden `.github`
 folder**. There are no libraries to install. You only need **Node.js 20 or higher**.
