@@ -54,3 +54,4 @@ docker build -t cicd-lab .
 docker run -p 3000:3000 cicd-lab
 curl http://localhost:3000/health
 ```
+Task 8 evidence: README-only change.
